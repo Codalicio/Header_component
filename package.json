@@ -4,6 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "main": "src/components/Header.jsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Codalicio/Header_component.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
